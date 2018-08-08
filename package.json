@@ -14,7 +14,7 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/webhook-console-logger"
+    "url": "https://github.com/jankcat/webhook-console-logger"
   },
   "license": "MIT",
   "keywords": [
